@@ -5,7 +5,7 @@ public class FindMax {
 	 */
 	
 	/**
-	 * Returns max number
+	 * Prints max number
 	 * @param a - integer
 	 * @param b - integer
 	 */
