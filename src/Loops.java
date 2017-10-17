@@ -83,5 +83,4 @@ public class Loops {
 		 printIntegers3();
 	
 	}
-
 }
